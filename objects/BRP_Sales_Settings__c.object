@@ -32,6 +32,6 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
-    <label>BRP Settings</label>
+    <label>BRP Sales Settings</label>
     <visibility>Public</visibility>
 </CustomObject>
