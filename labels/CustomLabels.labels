@@ -5,27 +5,27 @@
         <language>en_US</language>
         <protected>false</protected>
         <shortDescription>Austin.dev3</shortDescription>
-        <value>33333/Austin.dev3</value>
+        <value>{!Environment.Austin HSURL}</value>
     </labels>
     <labels>
         <fullName>Denver_dev3</fullName>
         <language>en_US</language>
         <protected>false</protected>
         <shortDescription>Denver.dev3</shortDescription>
-        <value>33333/Denver.dev3</value>
+        <value>{!Environment.Denver HSURL}</value>
     </labels>
     <labels>
         <fullName>SoCal_dev3</fullName>
         <language>en_US</language>
         <protected>false</protected>
         <shortDescription>SoCal.dev3</shortDescription>
-        <value>33333/SoCal.dev3</value>
+        <value>{!Environment.SoCal HSURL}</value>
     </labels>
     <labels>
         <fullName>Toronto_dev3</fullName>
         <language>en_US</language>
         <protected>false</protected>
         <shortDescription>Toronto.dev3</shortDescription>
-        <value>33333/Toronto.dev3</value>
+        <value>{!Environment.Toronto HSURL}</value>
     </labels>
 </CustomLabels>
