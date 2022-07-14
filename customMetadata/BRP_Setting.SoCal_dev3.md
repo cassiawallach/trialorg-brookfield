@@ -4,7 +4,7 @@
     <protected>false</protected>
     <values>
         <field>HsFormURL__c</field>
-        <value xsi:type="xsd:string">33333/SoCal.dev3</value>
+        <value xsi:type="xsd:string">{!Environment.SoCal HSURL}</value>
     </values>
     <values>
         <field>Name__c</field>
