@@ -22,6 +22,16 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
+    <fields>
+        <fullName>Sales_Office_Name__c</fullName>
+        <externalId>false</externalId>
+        <label>Sales Office Name</label>
+        <length>5</length>
+        <required>true</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <label>BRP Settings</label>
     <visibility>Public</visibility>
 </CustomObject>
