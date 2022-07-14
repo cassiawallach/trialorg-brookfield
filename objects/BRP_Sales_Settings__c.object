@@ -33,5 +33,15 @@
         <unique>false</unique>
     </fields>
     <label>BRP Sales Settings</label>
+    <listViews>
+        <fullName>BRP_Sales_Settings</fullName>
+        <columns>NAME</columns>
+        <columns>Name__c</columns>
+        <columns>Sales_Office_Name__c</columns>
+        <columns>HsFormURL__c</columns>
+        <columns>SETUP_TYPE</columns>
+        <filterScope>Everything</filterScope>
+        <label>BRP Sales Settings</label>
+    </listViews>
     <visibility>Public</visibility>
 </CustomObject>
