@@ -154,16 +154,6 @@
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
     <fields>
-        <fullName>Geolocation__c</fullName>
-        <displayLocationInDecimal>false</displayLocationInDecimal>
-        <externalId>false</externalId>
-        <label>Geolocation</label>
-        <required>false</required>
-        <scale>4</scale>
-        <trackTrending>false</trackTrending>
-        <type>Location</type>
-    </fields>
-    <fields>
         <fullName>Type__c</fullName>
         <externalId>false</externalId>
         <label>Type</label>
